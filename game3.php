@@ -14,7 +14,7 @@
         </header>
         <main>
             <div class="item">
-                <h3>項目</h3>
+                <h3>項目あああああああああああああああああああ</h3>
                 <p>表示板</p>
             </div>
             <div class="item">
